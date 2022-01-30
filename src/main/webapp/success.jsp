@@ -79,7 +79,6 @@ tr:nth-child(even) {
 	<br>
 <%}%>
 
-
 </table>
 
 </body>

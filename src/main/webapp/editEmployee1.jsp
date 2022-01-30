@@ -10,6 +10,7 @@
 <body>
 <form method="post" action="UpdateEmployeeinfo">
 	<table  cellpadding="0" cellspacing="0" width="50%"">
+
 <%EmployeeInfo emp= (EmployeeInfo) request.getSession().getAttribute("emp");%>
 
 <!-- 		pStmt.setString(5, ); -->
